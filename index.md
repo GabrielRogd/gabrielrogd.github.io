@@ -2,28 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
 ```c
 // Hello World in C language
+
 #include<stdio.h>
 
 int main() {
@@ -34,6 +15,7 @@ int main() {
 
 ```c++
 // Hello World in C++
+
 #include<iostream>
 using namespace std;
 
@@ -42,3 +24,9 @@ int main() {
     return 0;
 }
 ```
+
+Hi! I'm Gabriel, a 19 year old Computer Science student from Greece, willing to extend my programming skills throughout this course (and apparently my whole life).
+
+Most of my projects/repositories are private, however I have two public Python-oriented repos you might be interested in checking out. One is [PythonCMD](https://github.com/GabrielRogd/PythonCMD). Initially a high school project from back in 2022, it utilizes a "shell" where you can run a list of customized functions, including a Windows command emulation concept.
+
+This page is still under progression. [Original template](https://github.com/pages-themes/minimal)
